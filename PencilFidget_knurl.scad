@@ -5,7 +5,7 @@ ThreadSize = 12;
 ThreadPitch = 2.5;
 NutThickness = 4;
 NutDiameter = 15;
-PencilWidth_in = 0.31;
+PencilWidth_in = 0.3;
 FidgetLength = 38;
 
 module hexagon(w) {
